@@ -1,0 +1,32 @@
+.heroImg {
+    height: 600px;
+    width: 800px;
+    padding: 25px;
+    margin: auto;
+}
+
+p {
+    font-size: 120%;
+    color: black;
+}
+
+footer {
+    background-color: #373738;
+    font: white;
+
+}
+
+ul:hover {
+    background-color: #ddd;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1 body {
+    background-image: url("../images/backgroundhero.png");
+}
+
+.inline-block {
+    display: inline-block;
+
+}
